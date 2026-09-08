@@ -1,0 +1,14 @@
+# Never commit local accounts, browser data, diagnostic history, or machine state.
+profiles/
+reports/
+state/
+assets/
+*.lnk
+*.ico
+*.png
+
+# Local runtime and editor files.
+.vscode/
+.idea/
+*.log
+*.tmp
